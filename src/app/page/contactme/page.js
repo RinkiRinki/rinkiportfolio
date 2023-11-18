@@ -9,7 +9,7 @@ import "react-toastify/dist/ReactToastify.css"
 
 const hind = Hind({
 subsets: ["latin"],
-weight: ["300", "400", "500", "600", "700"],
+weight: ['100','300', '400', '500', '700', '900'],
 });
 
 

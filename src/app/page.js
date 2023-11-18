@@ -7,7 +7,7 @@ import CallToAction from "./components/CallToAction/CallToAction";
 
 const hind = Hind({
   subsets: ['latin'],
-  weight: ['300', '400', '500', '600', '700']
+  weight: ['100','300', '400', '500', '700', '900']
 });
 
 export default function Home() {
